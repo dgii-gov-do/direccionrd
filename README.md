@@ -115,11 +115,11 @@
             </tr>
             <tr>
                 <th>Fecha Emisión</th>
-                <td class="value">24/06/2024</td>
+                <td class="value">14/01/2025</td>
             </tr>
             <tr>
                 <th>Fecha Expiración</th>
-                <td class="value">22/09/2024</td>
+                <td class="value">14/04/2025</td>
             </tr>
             <tr>
                 <th>Razón Social / Nombre Importador</th>
